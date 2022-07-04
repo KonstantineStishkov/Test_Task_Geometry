@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geometry.csproj", "{340035FF-574B-4131-A39B-C102E5FE1721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry_Tests", "Geometry_Tests\Geometry_Tests.csproj", "{91702B1E-AC89-4143-A26C-A079EFD4C715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340035FF-574B-4131-A39B-C102E5FE1721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340035FF-574B-4131-A39B-C102E5FE1721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340035FF-574B-4131-A39B-C102E5FE1721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340035FF-574B-4131-A39B-C102E5FE1721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91702B1E-AC89-4143-A26C-A079EFD4C715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91702B1E-AC89-4143-A26C-A079EFD4C715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91702B1E-AC89-4143-A26C-A079EFD4C715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91702B1E-AC89-4143-A26C-A079EFD4C715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0C40F13-3AC3-44CC-9977-6D2FC49CAEAA}
+	EndGlobalSection
+EndGlobal
