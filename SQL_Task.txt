@@ -1,0 +1,4 @@
+SELECT product,
+	category
+FROM products LEFT JOIN categries ON products.id = categories.productId
+				AND categories.id = products.categoryId	
